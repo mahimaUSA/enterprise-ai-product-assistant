@@ -1,41 +1,44 @@
 # Enterprise AI Product Assistant
 
+An open-source AI assistant for Business Analysts, Product Owners, Product Managers, and Digital Transformation teams.
+
 ## Overview
 
-Enterprise AI Product Assistant is an open-source AI project designed to help Business Analysts, Product Owners, and Product Managers streamline enterprise product development.
+Enterprise AI Product Assistant helps product teams automate and improve business analysis, requirements engineering, Agile documentation, stakeholder communication, and product planning using Large Language Models (LLMs).
 
-The assistant leverages Large Language Models (LLMs) to automate and improve business analysis and product management activities, including requirements engineering, documentation, stakeholder communication, and Agile delivery.
+## Features
 
-## Key Features
+- AI-generated Business Requirement Documents (BRD)
+- Functional Requirement Documents (FRD)
+- User Stories
+- Acceptance Criteria
+- Product Backlogs
+- Business Rules
+- Meeting Minutes
+- Stakeholder Communication
+- Product Discovery
+- Agile Documentation
+- Prompt Library for Business Analysis
 
-- Generate Business Requirement Documents (BRDs)
-- Generate Functional Requirement Documents (FRDs)
-- Create User Stories and Acceptance Criteria
-- Build Product Backlogs
-- Generate Process Flows
-- Draft Stakeholder Communications
-- Produce Agile documentation
-- Assist with Product Discovery
-- Support AI-powered decision making
+## Who is this for?
+
+- Business Analysts
+- Product Owners
+- Product Managers
+- Scrum Masters
+- Delivery Managers
+- Consultants
 
 ## Vision
 
-The goal of this project is to bridge the gap between general-purpose AI assistants and enterprise product development workflows, enabling teams to deliver software more efficiently and with higher quality.
+To build an open-source AI toolkit that enables enterprise teams to create high-quality product documentation and make faster, better product decisions.
 
-## Current Status
+## Project Status
 
-🚧 This project is currently under active development.
+🚧 Early development
 
-## Roadmap
-
-- Prompt engineering framework
-- Requirements generation
-- User story automation
-- AI-assisted backlog management
-- Process modelling
-- Product strategy support
-- Integration with enterprise workflows
+Contributions and feedback are welcome.
 
 ## License
 
-MIT License
+MIT
